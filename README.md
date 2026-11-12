@@ -20,9 +20,9 @@ LumiFolio 是一款中国地标建筑图鉴与拍照打卡 App，以中国剪纸
 以下为 LumiFolio 1.1 的 App Store 宣传图，包含功能说明与真实 App 截图。
 
 <p>
-  <img src="assets/screenshots/zh-Hans/01-explore.jpg" alt="五座城市的城市探索界面" width="240">
-  <img src="assets/screenshots/zh-Hans/02-city.jpg" alt="剪纸风格的建筑图鉴" width="240">
-  <img src="assets/screenshots/zh-Hans/06-flash.jpg" alt="地标闪卡与文化小记" width="240">
+  <img src="assets/screenshots/zh-Hans/01-flash.jpg" alt="点亮后的地标闪卡" width="240">
+  <img src="assets/screenshots/zh-Hans/02-photo-light.jpg" alt="对齐建筑轮廓，拍照或选图点亮图鉴" width="240">
+  <img src="assets/screenshots/zh-Hans/03-city.jpg" alt="剪纸线索与点亮后的建筑图鉴" width="240">
 </p>
 
 ## 支持与反馈
