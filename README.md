@@ -8,21 +8,16 @@ LumiFolio 是一款中国地标建筑图鉴与拍照打卡 App，以中国剪纸
 
 [在 App Store 查看](https://apps.apple.com/app/id6829957036) · [简体中文官网](https://superidoltheshawnroy.github.io/lumifolio-support/zh-Hans/index.html) · [English](https://superidoltheshawnroy.github.io/lumifolio-support/) · [繁體中文](https://superidoltheshawnroy.github.io/lumifolio-support/zh-Hant/index.html)
 
-## 从发现，到珍藏
+## 从发现到珍藏
 
-- **探索城市**：浏览剪纸风格的地标图鉴，阅读线索与文化小记；在漫游地图上寻找附近尚未点亮的地标。
-- **拍照或到访点亮**：选择地标，拍摄照片或从相册选图，在设备上识别后点亮对应图鉴；到达附近时，也可选择定位打卡。
-- **收藏地标卡牌**：欣赏随拖动或手机倾斜而变化的闪卡反光，用转盘和点亮时光浏览收藏，按城市筛选并回看首次点亮的日期。
-- **按自己的节奏使用**：无需注册账号，支持简体中文、繁体中文和英文。照片在本机识别，收藏保存在设备上；定位权限可按需开启，地图需要网络。
-
-## App 一览
-
-以下为 LumiFolio 1.2（build 2）的 App Store 宣传图，包含功能说明与真实 App 截图。
+- **拍照点亮，解锁剪纸**：循着剪纸轮廓找到地标，对准建筑拍照，让眼前的风景在图鉴中亮起来。
+- **挑选照片，制作专属闪卡**：在图鉴工坊选一张喜欢的照片，定制边框、文字和水印，把自己的闪卡加入珍藏。
+- **回看旅途的点亮时光**：在「我的珍藏」用转盘翻看闪卡，或切换到「点亮时光」，按日期回看旅途中点亮的地标。
 
 <p>
-  <img src="assets/screenshots/zh-Hans/01-flash.jpg" alt="点亮后的地标闪卡" width="240">
-  <img src="assets/screenshots/zh-Hans/02-photo-light.jpg" alt="对齐建筑轮廓，拍照或选图点亮图鉴" width="240">
-  <img src="assets/screenshots/zh-Hans/03-city.jpg" alt="剪纸线索与点亮后的建筑图鉴" width="240">
+  <img src="assets/screenshots/zh-Hans/lit-atlas-screen.jpg" alt="已点亮的祈年殿与尚未点亮的剪纸地标" width="182">
+  <img src="assets/screenshots/zh-Hans/workshop-card-screen.jpg" alt="图鉴工坊中的自制闪卡" width="182">
+  <img src="assets/screenshots/zh-Hans/timeline-screen.jpg" alt="点亮时光里按日期排列的地标闪卡" width="182">
 </p>
 
 ## 支持与反馈
